@@ -3,7 +3,7 @@
 > Cambridge CAIE · 中英双语 · 完全免费
 
 **在线访问地址（部署后）：**
-👉 https://zhou12164-jpg.github.io/A-levelresources-MSE
+👉 https://zhou12164.github.io/A-levelresources-MSE
 
 ---
 
